@@ -11,4 +11,4 @@ spec:
     kind: Subscription
   selector:
     matchLabels:
-      app: ${param1}
+      app: ${param12}
