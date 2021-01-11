@@ -1,9 +1,9 @@
 apiVersion: app.k8s.io/v1beta1
-kind: Applications
+kind: Applicationsk
 metadata:
   labels:
     app: nginx-app-details
-  name: nginx-app-3
+  name: nginx-app-31112
   namespace: ns-sub-1
 spec:
   componentKinds:
