@@ -1,0 +1,13 @@
+{
+  "name": "param1",
+  "label": "param1",
+  "customtype": "string",
+  "type": "string",
+  "immutable": false,
+  "hidden": false,
+  "required": false,
+  "secured": false,
+  "isDynamic": false,
+  "permission": "Read-Write",
+  "default": "100"
+}
