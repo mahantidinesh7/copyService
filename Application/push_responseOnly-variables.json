@@ -1,5 +1,5 @@
 {
-  "name": "param1",
+  "name": "param12",
   "label": "param1",
   "customtype": "string",
   "type": "string",
@@ -9,5 +9,7 @@
   "secured": false,
   "isDynamic": false,
   "permission": "Read-Write",
-  "default": "100"
+  "default": "100",
+  "editable": true,
+  "dynamicDetails": {}
 }
