@@ -2,7 +2,7 @@
   "service": {
     "specVersion": "v3",
     "catalog_metadata": {
-      "name": "Ansible-for-AWS-Inst_Unist_List-Nginx_Whois_PostgresqlDin",
+      "name": "Ansible-for-AWS-Inst_Unist_List-Nginx_Whois_PostgresqlDinesh",
       "description": "Provision Single Virtual Server on AWS.",
       "image": "serviceicon_1.svg",
       "category": "dinesh",
